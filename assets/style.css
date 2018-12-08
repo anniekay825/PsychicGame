@@ -1,0 +1,47 @@
+/* font-family: 'Coming Soon', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Rancho', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Special Elite', cursive;
+font-family: 'Boogaloo', cursive; */
+
+* {
+    box-sizing: border-box;
+}
+
+h3,
+h4,
+ {
+    font-size: 30px;
+    color: rgb(163, 160, 160);
+}
+
+p {
+    color: rgb(163, 160, 160);
+}
+
+body  {
+    background-image: url("grey_@2X.png");
+    background-color: #ffffff;
+    font-family: 'Dosis', sans-serif;
+    box-sizing: border-box;
+    margin: auto;
+    font-size: 30px;
+}
+
+.container {
+    border: 5px;
+    border-color: #cccccc;
+    max-width: 960px;
+    margin: auto;
+    padding: 0;
+}
+
+.jumbotron {
+    padding: 25px;
+}
+
+.heading {
+    max-width: 960px;
+    margin: auto;
+}
